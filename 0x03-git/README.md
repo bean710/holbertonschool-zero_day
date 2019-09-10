@@ -1,3 +1,6 @@
-GIT
-------------
-The goal of this section is to learn more about how git works and how to use it effectively
+Git
+---
+The purpose of this is to help me learn the ins and outs of git
+
+
+....and maybe I won't mess it up this time...
