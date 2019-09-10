@@ -1,0 +1,30 @@
+[33mf59e8da[m HEAD@{0}: commit: Hot fix
+[33m91e79dd[m HEAD@{1}: checkout: moving from update_script to master
+[33m26a7546[m HEAD@{2}: commit: My personal work
+[33m91e79dd[m HEAD@{3}: checkout: moving from master to update_script
+[33m91e79dd[m HEAD@{4}: pull: Merge made by the 'recursive' strategy.
+[33m077a23c[m HEAD@{5}: commit (amend): Starting to code today, so cool
+[33meddd459[m HEAD@{6}: commit: Starting to code today, so cool
+[33mec8247a[m HEAD@{7}: commit: Added Git task section
+[33md7b9c7d[m HEAD@{8}: commit: Corrected task 8
+[33m54581f3[m HEAD@{9}: commit: Added task 8 file
+[33m3ddaefc[m HEAD@{10}: commit: Added Line 32 advanced task file
+[33m6cbdd51[m HEAD@{11}: commit: Added End of the Line task file
+[33m4af03f6[m HEAD@{12}: commit: Added Beginning of the Line task file
+[33m461756f[m HEAD@{13}: commit: Added Exiting task file
+[33m01de24c[m HEAD@{14}: commit: Added README
+[33m9eee796[m HEAD@{15}: commit: Added Undoing task file
+[33me0e9e42[m HEAD@{16}: commit: Added Pasting task file
+[33m986c7a2[m HEAD@{17}: commit: Revised cut command
+[33me818cdf[m HEAD@{18}: commit: Added Cutting task file
+[33m1940e2b[m HEAD@{19}: commit: Added file for Inserting task
+[33mda19c89[m HEAD@{20}: commit: Added Doctor advanced task file
+[33mee8aa07[m HEAD@{21}: commit: Added Tetris advanced task file
+[33m3ea6190[m HEAD@{22}: commit: Added Quitting task file
+[33mfa12d4c[m HEAD@{23}: commit: Added Undoing task file
+[33md1cb69c[m HEAD@{24}: commit: Added Searching task file
+[33mca31b65[m HEAD@{25}: commit: Added Pasting task file
+[33m522feeb[m HEAD@{26}: commit: Corrected Cutting Task
+[33mfdc5acb[m HEAD@{27}: commit: Added useful readme
+[33m3883dda[m HEAD@{28}: commit: Completed tasks 0, 1, 2
+[33medb666c[m HEAD@{29}: clone: from https://github.com/bean710/holbertonschool-zero_day.git
